@@ -1,0 +1,26 @@
+#bg{
+	background: #000 url(../imagess/paper1.jpg) no-repeat  center;
+	height: 100%;
+}
+#breath{
+	text-align: center;
+	margin-top: 80px;
+	
+}
+#sheet{
+	text-align: center;
+	margin-top: 60%;
+}
+#logo1{
+		text-align: center;
+		margin-top: 20px;
+		padding-left: 30%;
+}
+#logo2{
+		text-align: center;
+		margin-top: 50px;
+		padding-left: 35%;
+}
+
+
+
